@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rohtashsethi;p
+- 👋 Hi, I’m @rohtashsethi :p
 - 👀 I’m interested in Angular, JavaScript, Netflix and chill :p
 - 🌱 I’m currently learning AWS and Python
 - 💞️ I’m looking to collaborate on Angular or JavaScript projects
