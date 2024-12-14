@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rohtashsethi :p
-- 👀 I’m interested in Angular, JavaScript, Netflix and chill :p
+- 👀 I create content on Angular, JavaScript & web over LinkedIn :p
 - 🌱 I’m currently learning GraphQL
 - 💞️ I’m looking to collaborate on Angular or JavaScript projects
 - 📫 You can reach me rohtash.sethi@gmail.com
