@@ -1,3 +1,5 @@
+ <p><img src="https://komarev.com/ghpvc/?username=rohtashsethi" alt="rohtashsethi" /></p>
+
 - 👋 Hi, I’m @rohtashsethi :p
 - 👀 I create content on Angular, JavaScript & web over LinkedIn :p
 - 🌱 I’m currently learning GraphQL
